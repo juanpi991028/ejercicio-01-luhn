@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "gym",
+    "Descripcion": "hacer ejercicio",
+    "Prioridad": "Alta",
+    "Categoria": "1",
+    "Completada": false,
+    "FechaCreacion": "2026-07-30T19:25:20.3463844-05:00",
+    "Tipo": "ConVencimiento",
+    "FechaVencimiento": "2026-07-30T00:00:00"
+  }
+]
