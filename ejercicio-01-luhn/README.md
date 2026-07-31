@@ -62,3 +62,4 @@ dotnet run
 - Archivo inexistente o sin permisos de lectura al usar la opción 2.
 - Líneas inválidas dentro del archivo se reportan y se ignoran sin
   detener el procesamiento del resto.
+  
